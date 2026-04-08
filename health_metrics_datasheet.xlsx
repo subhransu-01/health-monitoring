@@ -6,6 +6,6 @@
 | Soumya | 94          | Male   | High           | Low          | Rest           | 80                | 180              |
 | Soumya | 94          | Male   | High           | Low          | Workout        | 140               | 500              |
 | Soumya | 94          | Male   | High           | Low          | After Workout   | 95                | 250              |
-| Old Man| -           | Male   | Normal         | Normal       | Rest           | 75                | 160              |
-| Old Man| -           | Male   | Normal         | Normal       | Workout        | 125               | 300              |
-| Old Man| -           | Male   | Normal         | Normal       | After Workout   | 85                | 180              |
+| Old Man| 65          | Male   | Normal         | Normal       | Rest           | 75                | 160              |
+| Old Man| 65           | Male   | Normal         | Normal       | Workout        | 125               | 300              |
+| Old Man| 65           | Male   | Normal         | Normal       | After Workout   | 85                | 180              |
