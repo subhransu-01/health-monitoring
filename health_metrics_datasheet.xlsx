@@ -1,2 +1,11 @@
-Timestamp,Gender,Age,Weight (kg),BP Systolic (At Rest),BP Diastolic (At Rest),Oxygen Level (At Rest),Body Temperature (At Rest),BP Systolic (During Workout),BP Diastolic (During Workout),Oxygen Level (During Workout),Body Temperature (During Workout),BP Systolic (After Workout),BP Diastolic (After Workout),Oxygen Level (After Workout),Body Temperature (After Workout)
-,,,,,,,,,,,,,,,
+| Name   | Weight (kg) | Gender | Blood Pressure | Oxygen Level | Activity State | Heart Rate (bpm) | Calories Burned |
+|--------|-------------|--------|----------------|--------------|----------------|-------------------|------------------|
+| Aditi  | 46          | Female | Normal         | Normal       | Rest           | 70                | 150              |
+| Aditi  | 46          | Female | Normal         | Normal       | Workout        | 120               | 400              |
+| Aditi  | 46          | Female | Normal         | Normal       | After Workout   | 90                | 200              |
+| Soumya | 94          | Male   | High           | Low          | Rest           | 80                | 180              |
+| Soumya | 94          | Male   | High           | Low          | Workout        | 140               | 500              |
+| Soumya | 94          | Male   | High           | Low          | After Workout   | 95                | 250              |
+| Old Man| -           | Male   | Normal         | Normal       | Rest           | 75                | 160              |
+| Old Man| -           | Male   | Normal         | Normal       | Workout        | 125               | 300              |
+| Old Man| -           | Male   | Normal         | Normal       | After Workout   | 85                | 180              |
